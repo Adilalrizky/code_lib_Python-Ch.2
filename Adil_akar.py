@@ -1,6 +1,6 @@
 # Program mencari akar suatu bilangan
 # Programmer : Adil Al Rizky MK
-# Tanggal = 05/02/2025 
+# Tanggal pembuatan = 05/02/2025 
 
 # mengakses fungsi matematika
 import math
